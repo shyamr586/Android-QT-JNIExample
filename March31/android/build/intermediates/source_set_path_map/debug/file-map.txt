@@ -1,9 +1,0 @@
-org.qtproject.example.March31-java-0 C:\Qt\6.4.0\android_arm64_v8a\src\android\java\res
-org.qtproject.example.March31-pngs-1 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\generated\res\pngs\debug
-org.qtproject.example.March31-resValues-2 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\generated\res\resValues\debug
-org.qtproject.example.March31-rs-3 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\generated\res\rs\debug
-org.qtproject.example.March31-mergeDebugResources-4 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-org.qtproject.example.March31-mergeDebugResources-5 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-org.qtproject.example.March31-merged_res-6 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\build\intermediates\merged_res\debug
-org.qtproject.example.March31-android-7 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\res
-org.qtproject.example.March31-debug-8 C:\Users\ramu_\Desktop\Work\personal\FYI\AndroidPractice\March31\android\src\debug\res

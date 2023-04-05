@@ -1,9 +1,0 @@
-org.qtproject.example.March31VideoPlayer-java-0 C:\Qt\6.4.0\android_arm64_v8a\src\android\java\res
-org.qtproject.example.March31VideoPlayer-pngs-1 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\generated\res\pngs\debug
-org.qtproject.example.March31VideoPlayer-resValues-2 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\generated\res\resValues\debug
-org.qtproject.example.March31VideoPlayer-rs-3 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\generated\res\rs\debug
-org.qtproject.example.March31VideoPlayer-mergeDebugResources-4 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-org.qtproject.example.March31VideoPlayer-mergeDebugResources-5 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-org.qtproject.example.March31VideoPlayer-merged_res-6 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\build\intermediates\merged_res\debug
-org.qtproject.example.March31VideoPlayer-android-build-7 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\res
-org.qtproject.example.March31VideoPlayer-debug-8 C:\Users\ramu_\Desktop\Work\personal\FYI\build-March31VideoPlayer-Android_Qt_6_4_0_Clang_arm64_v8a-Debug\android-build\src\debug\res
